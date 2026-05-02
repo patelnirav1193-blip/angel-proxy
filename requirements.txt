@@ -1,0 +1,7 @@
+flask
+flask-cors
+smartapi-python
+pyotp
+requests
+websocket-client
+logzero
